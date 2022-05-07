@@ -22,4 +22,4 @@ You can create your own app-id on https://dummyapi.io
 
 # Project video
 
-Watch the main features of the project:
+Watch the main features of the project: https://youtu.be/S0u0O5DyLR4
